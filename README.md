@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 27/11/2023
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -16,14 +16,19 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+
+![Screenshot 2023-11-27 200629](https://github.com/Bhuvana23013531/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147125678/4ab1d912-da78-494a-8fc2-6ab55fba00e7)
+![Screenshot 2023-11-27 201543](https://github.com/Bhuvana23013531/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147125678/6e6e3c5d-e7aa-4cc3-bd76-5e36a32450de)
+![Screenshot 2023-11-27 201824](https://github.com/Bhuvana23013531/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147125678/2f639ca5-0778-44c3-a1ab-090f317ec5b0)
+![Screenshot 2023-11-27 201958](https://github.com/Bhuvana23013531/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147125678/cb659a74-403a-48da-8af6-f7f00c7cd702)
+![Screenshot 2023-11-27 203042](https://github.com/Bhuvana23013531/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147125678/48f66b95-e7dd-44bf-aa74-c50b8812ce2d)
+![Screenshot 2023-11-27 203109](https://github.com/Bhuvana23013531/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147125678/776c1e66-c4b7-4d18-b535-94baf9f9832f)
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:BHUVANESHWARI M
+### Register Number:23013531
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
